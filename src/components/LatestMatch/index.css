@@ -1,0 +1,46 @@
+.latest-match-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  border-radius: 10px;
+  height: 60vh;
+  width: 80%;
+  margin-top: 30px;
+}
+
+.head {
+  font-family: Bree Serif;
+  font-size: 25px;
+  color: aliceblue;
+  margin-left: 20px;
+}
+.date {
+  color: aliceblue;
+  font-size: 20px;
+}
+
+P {
+  color: aliceblue;
+  font-size: 10px;
+}
+.team-logo {
+  height: 200px;
+  width: 150px;
+  margin-right: 20px;
+}
+
+.latest-match-topic {
+  font-family: Bree Serif;
+  color: aliceblue;
+  margin-right: 20px;
+  font-size: 16px;
+}
+
+.latest-match-topic-ans {
+  font-family: roboto;
+  color: aliceblue;
+  font-size: 11px;
+  margin-right: 20px;
+}

@@ -1,0 +1,15 @@
+.not-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+}
+.not-found-head {
+  margin-top: 150px;
+  font-family: Roboto;
+  font-size: 25px;
+  color: #475569;
+}

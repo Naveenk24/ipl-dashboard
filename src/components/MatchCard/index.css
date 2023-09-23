@@ -1,0 +1,42 @@
+.team-card-list-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 15px;
+  border-radius: 10px;
+  height: 60vh;
+  width: 20%;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  margin: 20px;
+}
+.card-image-ele {
+  margin-top: 5px;
+  height: 100px;
+  width: 70px;
+}
+.status-green {
+  color: #18ed66;
+  font-family: Bree Serif;
+  font-size: 17px;
+  text-align: center;
+  padding-right: 29px;
+}
+
+.team-para {
+  text-align: center;
+  font-size: 15px;
+  font-family: Bree Serif;
+}
+.status-red {
+  color: #e31a1a;
+  font-family: Bree Serif;
+  font-size: 17px;
+  text-align: center;
+  padding-right: 29px;
+}
+.result-para {
+  font-family: Roboto;
+}

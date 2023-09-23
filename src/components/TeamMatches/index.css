@@ -1,0 +1,67 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.banner-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+}
+.banner-image {
+  width: 77%;
+  height: 250px;
+}
+
+.background-team-color-mi {
+  background-color: #13418b;
+  min-height: 100vh;
+}
+
+.background-team-color-csk {
+  background-color: #f7db00;
+  min-height: 100vh;
+}
+
+.background-team-color-kkr {
+  background-color: #5755a7;
+  min-height: 100vh;
+}
+
+.background-team-color-rr {
+  background-color: #da237b;
+  min-height: 100vh;
+}
+
+.background-team-color-sh {
+  background-color: #f26d22;
+  min-height: 100vh;
+}
+
+.background-team-color-rcb {
+  background-color: #a4261d;
+  min-height: 100vh;
+}
+
+.background-team-color-kxp {
+  background-color: #da237b;
+  min-height: 100vh;
+}
+
+.background-team-color-dc {
+  background-color: #4f5db0;
+  min-height: 100vh;
+}
+
+.team-card-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
